@@ -15,7 +15,7 @@
 
 - 💪 I’m proficient in **NLP downstream techniques like - Language modeling, fine-tuning pretrained models, NER, Topic modeling, Information Retrieval, Q&A systems, Conversation Interfaces**
 
-- 👨‍💻 All of my projects are available at [github.com/hitz02](github.com/hitz02)
+- 👨‍💻 All of my projects are available on [GitHub](github.com/hitz02)
 
 - 📝 I'm comfortable with programming languages like [Python, SQL and R](Python, SQL and R)
 
@@ -23,14 +23,14 @@
 
 - 📫 How to reach me **hiteshw.02@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/hitesh-waghela/](https://www.linkedin.com/in/hitesh-waghela/)
+- 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/hitesh-waghela/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hitz02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hitz02" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hitesh-waghela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hitesh-waghela" height="30" width="40" /></a>
 <a href="https://kaggle.com/hitz02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hitz02" height="30" width="40" /></a>
-<a href="https://medium.com/@hitesh.w02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hitesh.w02" height="30" width="40" /></a>
+<a href="https://medium.com/@hitz02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hitesh.w02" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hitz02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hitz02" height="30" width="40" /></a>
 </p>
 
